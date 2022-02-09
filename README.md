@@ -31,7 +31,7 @@ In order to have the app running, the following steps should be executed
             }
         ]
     }
-```
+
     * response: no content page with a 201 status code.
 
 * GET `api/v1/readings/:device_id/total_count` for getting the total count of an specific id
